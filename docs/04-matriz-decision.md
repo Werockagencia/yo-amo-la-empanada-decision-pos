@@ -36,11 +36,11 @@ Con estos pesos gana Odoo, porque premia la producción.
 | **Total** | **100** | | | |
 | **Puntaje ponderado** | | | | |
 
-**Por qué cambian los pesos:** el negocio pidió que la administración sea fácil, vende unos $6 millones al mes y todavía no tiene permiso INVIMA. Producir con órdenes y trazabilidad completa se vuelve importante en la fase 2, no en el arranque.
+**Por qué cambian los pesos:** el negocio pidió que la administración sea fácil, es una operación pequeña y todavía no tiene permiso INVIMA. Producir con órdenes y trazabilidad completa se vuelve importante en la fase 2, no en el arranque.
 
 ## Cuándo pasar a la fase 2 (Odoo)
 
 Se reabre la decisión si se cumple **cualquiera** de estas condiciones:
-- El negocio supera los $17 millones al mes de ventas.
+- El volumen de ventas supera el umbral que el negocio y We Rock acuerden como meta de crecimiento.
 - INVIMA exige trazabilidad de lote desde las materias primas.
 - Llevar los lotes y las recetas a mano en el Excel ya consume más horas de las que vale ahorrar.
